@@ -1,4 +1,4 @@
-# caffe-model-tensorflow-model
+# caffe-model<==transform==>tensorflow-model
 This code can implement caffe model&lt;==>tensorflow model
 
 model_transform.py is the main file for model transform.
